@@ -13,3 +13,4 @@
 5) jQuery
 
 ## API used
+### themealdb API ==> https://www.themealdb.com/api.php
