@@ -13,3 +13,7 @@ Meals website where you can search for your desired meals and follow the instruc
 
 ## API used
 ### themealdb API ==> https://www.themealdb.com/api.php
+
+# ScreenShots
+### 1) Home
+![yummy1](https://github.com/user-attachments/assets/3bf1310c-8a5c-44d9-b539-86688f3cf17b)
