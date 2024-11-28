@@ -20,3 +20,7 @@ Meals website where you can search for your desired meals and follow the instruc
 
 ### 2) Search
 ![yummy2](https://github.com/user-attachments/assets/0168c3ae-b27f-4c9e-bd3b-9a33a9dcda62)
+
+### 3) Categories
+![yummy3](https://github.com/user-attachments/assets/1c4aa2a6-b550-4cbb-a1d2-6b794215b80d)
+
