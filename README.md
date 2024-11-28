@@ -16,4 +16,7 @@ Meals website where you can search for your desired meals and follow the instruc
 
 # ScreenShots
 ### 1) Home
-![yummy1](https://github.com/user-attachments/assets/3bf1310c-8a5c-44d9-b539-86688f3cf17b)
+![yummy7](https://github.com/user-attachments/assets/14bebf2f-bd2e-44f0-ada7-3794aacdd711)
+
+### 2) Search
+![yummy2](https://github.com/user-attachments/assets/0168c3ae-b27f-4c9e-bd3b-9a33a9dcda62)
