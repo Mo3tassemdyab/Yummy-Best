@@ -27,4 +27,6 @@ Meals website where you can search for your desired meals and follow the instruc
 ### 4) Area
 ![yummy4](https://github.com/user-attachments/assets/4146cf2e-5858-4e42-bec2-66e3f493ee1c)
 
+### 5) Ingredients
+![yummy5](https://github.com/user-attachments/assets/300e349b-e615-4f70-adbe-513eccc4720e)
 
