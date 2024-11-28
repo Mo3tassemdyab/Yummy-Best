@@ -9,3 +9,7 @@ Meals website where you can search for your desired meals and follow the instruc
 3) Bootstrap
 4) Javascript
 5) jQuery
+
+
+## API used
+### themealdb API ==> https://www.themealdb.com/api.php
