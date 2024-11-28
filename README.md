@@ -30,3 +30,5 @@ Meals website where you can search for your desired meals and follow the instruc
 ### 5) Ingredients
 ![yummy5](https://github.com/user-attachments/assets/300e349b-e615-4f70-adbe-513eccc4720e)
 
+### 6) Contact Us
+![yummy6](https://github.com/user-attachments/assets/baf0a497-97ee-49af-9c4b-083d4884fe87)
